@@ -1,0 +1,11 @@
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.csproj.AssemblyReference.cache
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.Form1.resources
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.Properties.Resources.resources
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.csproj.GenerateResource.cache
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.csproj.CoreCompileInputs.cache
+C:\Users\ozane\source\repos\Balthazard\bin\Debug\Balthazard.exe.config
+C:\Users\ozane\source\repos\Balthazard\bin\Debug\Balthazard.exe
+C:\Users\ozane\source\repos\Balthazard\bin\Debug\Balthazard.pdb
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.exe
+C:\Users\ozane\source\repos\Balthazard\obj\Debug\Balthazard.pdb
